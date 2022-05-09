@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-In this project we created an interactive web application that collected UFO sighting data into a table and allowed the data to be filtered using different parameters. 
+In this project we created an interactive web application that collected and organized UFO sighting data into a table and allowed the data to be filtered using different parameters. 
 
 
 ### Purpose
